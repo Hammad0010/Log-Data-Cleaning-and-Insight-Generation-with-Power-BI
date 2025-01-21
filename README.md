@@ -13,4 +13,13 @@ This Business Intelligence (BI) project focuses on processing log files to extra
 - **Power BI**: To create and share interactive reports and dashboards.
 - **Git**: For version control.
 
-## Repository Structure
+# Visualizations
+
+### Browser Distribution
+![Browser Distribution](https://github.com/YourGitHubUsername/RepositoryName/blob/master/docs/Screenshots/browser_distribution.png)
+
+### Filetype Requests
+![Filetype Requests](https://github.com/YourGitHubUsername/RepositoryName/blob/master/docs/Screenshots/filetype_requests.png)
+
+### Traffic Overview
+![Traffic Overview](https://github.com/YourGitHubUsername/RepositoryName/blob/master/docs/Screenshots/traffic_overview.png)
