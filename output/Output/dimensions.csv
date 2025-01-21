@@ -1,0 +1,208 @@
+id,browser,operating_system,file type
+1,Firefox,Windows,None
+2,MSIE,Windows,None
+3,MSIE,Windows,aspx
+4,MSIE,Windows,txt
+5,Firefox,Windows,php
+6,Unknown,Unknown,php
+7,MSIE,Windows,css
+8,MSIE,Windows,js
+9,MSIE,Windows,gif
+10,MSIE,Windows,png
+11,MSIE,Windows,jpg
+12,MSIE,Windows,ico
+13,MSIE,Windows,jpeg
+14,Firefox,Mac OS,None
+15,Firefox,Mac OS,ico
+16,Firefox,Mac OS,css
+17,Firefox,Mac OS,js
+18,Firefox,Mac OS,aspx
+19,Firefox,Mac OS,gif
+20,Firefox,Mac OS,png
+21,Firefox,Mac OS,jpg
+22,Firefox,Mac OS,jpeg
+23,Safari,Mac OS,aspx
+24,Safari,Mac OS,css
+25,Safari,Mac OS,js
+26,Safari,Mac OS,gif
+27,Safari,Mac OS,jpg
+28,Safari,Mac OS,png
+29,Safari,Mac OS,ico
+30,Safari,Mac OS,jpeg
+31,Firefox,Windows,aspx
+32,Firefox,Windows,css
+33,Firefox,Windows,ico
+34,Firefox,Windows,gif
+35,Firefox,Windows,jpg
+36,Firefox,Windows,png
+37,Firefox,Windows,jpeg
+38,Safari,Mac OS,None
+39,Firefox,Windows,js
+40,MSIE,Windows,JPEG
+41,MSIE,Windows,php
+42,Unknown,Unknown,None
+43,Firefox,Linux,None
+44,Firefox,Linux,aspx
+45,Unknown,Unknown,aspx
+46,Unknown,Unknown,jpeg
+47,Baiduspider,Unknown,None
+48,YandexBot,Unknown,aspx
+49,Unknown,Unknown,css
+50,Unknown,Unknown,txt
+51,msnbot,Unknown,txt
+52,msnbot,Unknown,aspx
+53,YandexBot,Unknown,None
+54,Chrome,Windows,jpeg
+55,Chrome,Windows,aspx
+56,Chrome,Windows,css
+57,Chrome,Windows,js
+58,Chrome,Windows,jpg
+59,Chrome,Windows,gif
+60,Chrome,Windows,png
+61,Chrome,Windows,ico
+62,YandexBot,Unknown,txt
+63,Unknown,Mac OS,aspx
+64,Chrome,Windows,None
+65,Baiduspider,Unknown,txt
+66,Unknown,Windows,aspx
+67,Unknown,Unknown,jpg
+68,Unknown,Unknown,ico
+69,Unknown,Windows,txt
+70,Unknown,Windows,None
+71,Unknown,Windows,jpeg
+72,Firefox,Linux,jpeg
+73,Opera,Windows,jpeg
+74,Chrome,Linux,css
+75,Chrome,Linux,aspx
+76,Chrome,Linux,gif
+77,Chrome,Linux,jpg
+78,Chrome,Linux,jpeg
+79,Chrome,Linux,png
+80,Chrome,Linux,ico
+81,Sogou,Unknown,None
+82,Sogou,Unknown,aspx
+83,Unknown,Unknown,js
+84,Safari,Unknown,aspx
+85,Safari,Unknown,css
+86,Safari,Unknown,jpg
+87,Safari,Unknown,gif
+88,Safari,Unknown,png
+89,Safari,Unknown,jpeg
+90,Unknown,Unknown,png
+91,MSIE,Windows,dll
+92,MSIE,Windows,asp
+93,Unknown,Linux,txt
+94,Unknown,Linux,aspx
+95,Firefox,Windows,txt
+96,Opera,Windows,aspx
+97,Opera,Windows,css
+98,Opera,Windows,js
+99,Opera,Windows,jpg
+100,Opera,Windows,gif
+101,Opera,Windows,ico
+102,Opera,Windows,png
+103,msnbot,Unknown,None
+104,Unknown,Unknown,gif
+105,Safari,iOS,aspx
+106,Safari,iOS,css
+107,Safari,iOS,js
+108,Safari,iOS,gif
+109,Safari,iOS,jpeg
+110,Safari,iOS,jpg
+111,Safari,iOS,png
+112,Firefox,Linux,css
+113,Firefox,Linux,js
+114,Firefox,Linux,gif
+115,Firefox,Linux,jpg
+116,Firefox,Linux,png
+117,Firefox,Linux,ico
+118,Chrome,Linux,js
+119,Unknown,Mac OS,css
+120,Unknown,Mac OS,js
+121,Unknown,Mac OS,gif
+122,Unknown,Mac OS,jpg
+123,Unknown,Mac OS,jpeg
+124,Unknown,Mac OS,png
+125,Firefox,Windows,rdf
+126,Sogou,Unknown,txt
+127,MSIE,Windows,html
+128,Opera,Unknown,txt
+129,Opera,Unknown,None
+130,Panscient,Unknown,txt
+131,Panscient,Unknown,None
+132,Panscient,Unknown,aspx
+133,Panscient,Unknown,js
+134,Unknown,Linux,None
+135,Firefox,Unknown,txt
+136,Firefox,Unknown,aspx
+137,Firefox,Unknown,None
+138,Safari,iOS,None
+139,Safari,Windows,aspx
+140,Safari,Windows,css
+141,Safari,Windows,js
+142,Safari,Windows,gif
+143,Safari,Windows,jpeg
+144,Safari,Windows,png
+145,Safari,Windows,jpg
+146,Safari,Windows,ico
+147,msnbot,Unknown,jpg
+148,Unknown,Unknown,html
+149,Safari,Windows,None
+150,MSIE,Unknown,txt
+151,Unknown,Unknown,bs
+152,Opera,Unknown,aspx
+153,Opera,Unknown,css
+154,Opera,Unknown,js
+155,Opera,Unknown,gif
+156,Opera,Unknown,png
+157,Opera,Unknown,jpg
+158,Opera,Unknown,ico
+159,Netscape,Linux,aspx
+160,Netscape,Linux,ico
+161,Netscape,Linux,css
+162,Netscape,Linux,js
+163,Netscape,Linux,jpg
+164,Netscape,Linux,gif
+165,Netscape,Linux,jpeg
+166,Netscape,Linux,png
+167,Opera,Windows,None
+168,MSIE,Unknown,None
+169,Baiduspider,Unknown,aspx
+170,Chrome,Mac OS,aspx
+171,Chrome,Mac OS,css
+172,Chrome,Mac OS,js
+173,Chrome,Mac OS,gif
+174,Chrome,Mac OS,jpg
+175,Chrome,Mac OS,jpeg
+176,Chrome,Mac OS,png
+177,Chrome,Mac OS,ico
+178,MSIE,Windows,pl
+179,Unknown,Windows,css
+180,Unknown,Windows,js
+181,msnbot,Unknown,jpeg
+182,Unknown,Unknown,htm
+183,Unknown,Unknown,asp
+184,Safari,Unknown,None
+185,Safari,Linux,aspx
+186,Safari,Linux,css
+187,Safari,Linux,js
+188,Safari,Linux,gif
+189,Safari,Linux,jpg
+190,Safari,Linux,png
+191,Safari,Linux,jpeg
+192,Safari,Linux,ico
+193,MSIE,Unknown,aspx
+194,MSIE,Unknown,js
+195,Firefox,Windows,aspxl
+196,YandexBot,Unknown,html
+197,Firefox,Windows,Resource
+198,Sogou,Unknown,gif
+199,Sogou,Unknown,jpg
+200,Baiduspider,Unknown,css
+201,Safari,Unknown,js
+202,Unknown,Unknown,jpegamp
+203,msnbot,Unknown,png
+204,Baiduspider,Unknown,jpg
+205,Opera,Unknown,jpeg
+206,MSIE,Windows,xml
+207,Chrome,Unknown,jpeg

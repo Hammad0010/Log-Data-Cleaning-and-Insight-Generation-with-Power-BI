@@ -1,0 +1,183 @@
+dimension_id,browser,os,file type
+1,Firefox,Windows,None
+2,MSIE,Windows,None
+3,MSIE,Windows,aspx
+4,MSIE,Windows,txt
+5,Firefox,Windows,php
+6,Unknown,Unknown,php
+7,MSIE,Windows,css
+8,MSIE,Windows,js
+9,MSIE,Windows,gif
+10,MSIE,Windows,png
+11,MSIE,Windows,jpg
+12,MSIE,Windows,ico
+13,MSIE,Windows,jpeg
+14,Firefox,Mac OS,None
+15,Firefox,Mac OS,ico
+16,Firefox,Mac OS,css
+17,Firefox,Mac OS,js
+18,Firefox,Mac OS,aspx
+19,Firefox,Mac OS,gif
+20,Firefox,Mac OS,png
+21,Firefox,Mac OS,jpg
+22,Firefox,Mac OS,jpeg
+23,Safari,Mac OS,aspx
+24,Safari,Mac OS,css
+25,Safari,Mac OS,js
+26,Safari,Mac OS,gif
+27,Safari,Mac OS,jpg
+28,Safari,Mac OS,png
+29,Safari,Mac OS,ico
+30,Safari,Mac OS,jpeg
+31,Firefox,Windows,aspx
+32,Firefox,Windows,css
+33,Firefox,Windows,ico
+34,Firefox,Windows,gif
+35,Firefox,Windows,jpg
+36,Firefox,Windows,png
+37,Firefox,Windows,jpeg
+38,Safari,Mac OS,None
+39,Firefox,Windows,js
+40,MSIE,Windows,JPEG
+41,MSIE,Windows,php
+42,Unknown,Unknown,None
+43,Firefox,Linux,None
+44,Firefox,Linux,aspx
+45,Unknown,Unknown,aspx
+46,Unknown,Unknown,jpeg
+47,Unknown,Unknown,css
+48,Unknown,Unknown,txt
+49,Chrome,Windows,jpeg
+50,Chrome,Windows,aspx
+51,Chrome,Windows,css
+52,Chrome,Windows,js
+53,Chrome,Windows,jpg
+54,Chrome,Windows,gif
+55,Chrome,Windows,png
+56,Chrome,Windows,ico
+57,Unknown,Mac OS,aspx
+58,Chrome,Windows,None
+59,Unknown,Windows,aspx
+60,Unknown,Unknown,jpg
+61,Unknown,Unknown,ico
+62,Unknown,Windows,txt
+63,Unknown,Windows,None
+64,Unknown,Windows,jpeg
+65,Firefox,Linux,jpeg
+66,Opera,Windows,jpeg
+67,Chrome,Linux,css
+68,Chrome,Linux,aspx
+69,Chrome,Linux,gif
+70,Chrome,Linux,jpg
+71,Chrome,Linux,jpeg
+72,Chrome,Linux,png
+73,Chrome,Linux,ico
+74,Unknown,Unknown,js
+75,Safari,Unknown,aspx
+76,Safari,Unknown,css
+77,Safari,Unknown,jpg
+78,Safari,Unknown,gif
+79,Safari,Unknown,png
+80,Safari,Unknown,jpeg
+81,Unknown,Unknown,png
+82,MSIE,Windows,dll
+83,MSIE,Windows,asp
+84,Unknown,Linux,txt
+85,Unknown,Linux,aspx
+86,Firefox,Windows,txt
+87,Opera,Windows,aspx
+88,Opera,Windows,css
+89,Opera,Windows,js
+90,Opera,Windows,jpg
+91,Opera,Windows,gif
+92,Opera,Windows,ico
+93,Opera,Windows,png
+94,Unknown,Unknown,gif
+95,Safari,iOS,aspx
+96,Safari,iOS,css
+97,Safari,iOS,js
+98,Safari,iOS,gif
+99,Safari,iOS,jpeg
+100,Safari,iOS,jpg
+101,Safari,iOS,png
+102,Firefox,Linux,css
+103,Firefox,Linux,js
+104,Firefox,Linux,gif
+105,Firefox,Linux,jpg
+106,Firefox,Linux,png
+107,Firefox,Linux,ico
+108,Chrome,Linux,js
+109,Unknown,Mac OS,css
+110,Unknown,Mac OS,js
+111,Unknown,Mac OS,gif
+112,Unknown,Mac OS,jpg
+113,Unknown,Mac OS,jpeg
+114,Unknown,Mac OS,png
+115,Firefox,Windows,rdf
+116,MSIE,Windows,html
+117,Opera,Unknown,txt
+118,Opera,Unknown,None
+119,Unknown,Linux,None
+120,Firefox,Unknown,txt
+121,Firefox,Unknown,aspx
+122,Firefox,Unknown,None
+123,Safari,iOS,None
+124,Safari,Windows,aspx
+125,Safari,Windows,css
+126,Safari,Windows,js
+127,Safari,Windows,gif
+128,Safari,Windows,jpeg
+129,Safari,Windows,png
+130,Safari,Windows,jpg
+131,Safari,Windows,ico
+132,Unknown,Unknown,html
+133,Safari,Windows,None
+134,MSIE,Unknown,txt
+135,Unknown,Unknown,bs
+136,Opera,Unknown,aspx
+137,Opera,Unknown,css
+138,Opera,Unknown,js
+139,Opera,Unknown,gif
+140,Opera,Unknown,png
+141,Opera,Unknown,jpg
+142,Opera,Unknown,ico
+143,Unknown,Linux,ico
+144,Unknown,Linux,css
+145,Unknown,Linux,js
+146,Unknown,Linux,jpg
+147,Unknown,Linux,gif
+148,Unknown,Linux,jpeg
+149,Unknown,Linux,png
+150,Opera,Windows,None
+151,MSIE,Unknown,None
+152,Chrome,Mac OS,aspx
+153,Chrome,Mac OS,css
+154,Chrome,Mac OS,js
+155,Chrome,Mac OS,gif
+156,Chrome,Mac OS,jpg
+157,Chrome,Mac OS,jpeg
+158,Chrome,Mac OS,png
+159,Chrome,Mac OS,ico
+160,MSIE,Windows,pl
+161,Unknown,Windows,css
+162,Unknown,Windows,js
+163,Unknown,Unknown,htm
+164,Unknown,Unknown,asp
+165,Safari,Unknown,None
+166,Safari,Linux,aspx
+167,Safari,Linux,css
+168,Safari,Linux,js
+169,Safari,Linux,gif
+170,Safari,Linux,jpg
+171,Safari,Linux,png
+172,Safari,Linux,jpeg
+173,Safari,Linux,ico
+174,MSIE,Unknown,aspx
+175,MSIE,Unknown,js
+176,Firefox,Windows,aspxl
+177,Firefox,Windows,Resource
+178,Safari,Unknown,js
+179,Unknown,Unknown,jpegamp
+180,Opera,Unknown,jpeg
+181,MSIE,Windows,xml
+182,Chrome,Unknown,jpeg
