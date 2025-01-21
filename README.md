@@ -16,7 +16,7 @@ This Business Intelligence (BI) project focuses on processing log files to extra
 # Visualizations
 
 ### Browser Distribution
-![Browser Distribution](https://github.com/YourGitHubUsername/RepositoryName/blob/master/docs/Screenshots/browser_distribution.png)
+![Browser Distribution](https://https://github.com/Hammad0010/Log-Data-Cleaning-and-Insight-Generation-with-Power-BI//master/docs/Screenshots/browser_distribution.png)
 
 ### Filetype Requests
 ![Filetype Requests](https://github.com/YourGitHubUsername/RepositoryName/blob/master/docs/Screenshots/filetype_requests.png)
